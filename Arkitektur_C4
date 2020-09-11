@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-11T08:54:52.396Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="F7L7yqjAuX2PuCCW5Ib9" version="13.6.9" type="github">
+<mxfile modified="2020-09-11T08:59:13.776Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4OpCrx-bOD1gAqOXW1oa" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,25 +6,50 @@
         <mxCell id="1" parent="0" />
         <mxCell id="UEzPUAAOIrF-is8g5C7q-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="-590" as="sourcePoint" />
-            <mxPoint x="500" y="-490" as="targetPoint" />
+            <mxPoint x="130" y="-620" as="sourcePoint" />
+            <mxPoint x="130" y="-520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="500" y="-540" />
-              <mxPoint x="500" y="-540" />
+              <mxPoint x="130" y="-570" />
+              <mxPoint x="130" y="-570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-1" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="457" y="-700" width="78" height="78" as="geometry" />
+          <mxGeometry x="87" y="-730" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-2" value="Ser tegning og ændrer pixels&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-560" width="170" height="20" as="geometry" />
+          <mxGeometry x="50" y="-590" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-3" value="Real-time digital tegne-system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="436" y="-470" width="120" height="60" as="geometry" />
+          <mxGeometry x="66" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-4" value="Spiller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="471" y="-622" width="50" height="20" as="geometry" />
+          <mxGeometry x="101" y="-652" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kUy26bgBn5fABN4g1qB2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="-630" as="sourcePoint" />
+            <mxPoint x="650" y="-530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="-580" />
+              <mxPoint x="650" y="-580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUy26bgBn5fABN4g1qB2-7" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="607" y="-740" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="kUy26bgBn5fABN4g1qB2-8" value="Ser tegning og ændrer pixels&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-600" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kUy26bgBn5fABN4g1qB2-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-520" width="711" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="kUy26bgBn5fABN4g1qB2-10" value="Spiller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="621" y="-662" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kUy26bgBn5fABN4g1qB2-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Real-time digital tegne-system&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-120" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
