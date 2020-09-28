@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-28T09:03:41.233Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="J5Z_K4ZcrIjrhZmlLUd4" version="13.6.9" type="github">
+<mxfile modified="2020-09-28T09:04:02.096Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="3pbcvbVHkj-fQO0UGacK" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1065" dy="2766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -214,7 +214,7 @@
         <mxCell id="H3VU2g5PJS7C6yTMInsD-46" value="Får events fra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1455" y="-462.5" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-47" value="&lt;b&gt;History Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ændrer en pixel på gitteret." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-47" value="&lt;b&gt;History/Logging Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ændrer en pixel på gitteret." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1640" y="-390" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
