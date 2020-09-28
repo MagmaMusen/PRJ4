@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-28T08:39:52.318Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tddoGQMlRWkkG0gT-RBe" version="13.6.9" type="github">
+<mxfile modified="2020-09-28T08:44:31.405Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="qPqqf6_jA1XzohlKOtM1" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1065" dy="2766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -108,10 +108,10 @@
           <mxGeometry x="1340" y="-390" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-6" value="&lt;span&gt;&lt;b&gt;Enkelt-sidet web applikation&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Viser tegningen real-time til spilleren og har GUI til placering af nye pixels.&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="990" y="-1100" width="940" height="80" as="geometry" />
+          <mxGeometry x="940" y="-1040" width="940" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-7" value="&lt;b&gt;Database&lt;/b&gt;&lt;br&gt;&lt;br&gt;Gemmer spiller-informationer, nuværende tegning samt tegningshistorik" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="70" width="1020" height="120" as="geometry" />
+          <mxGeometry x="940" y="150" width="940" height="120" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-8" value="&lt;b&gt;Get Gitter Component&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1560" y="-620" width="170" height="80" as="geometry" />
@@ -195,11 +195,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="-100" width="170" height="80" as="geometry" />
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-30" value="&lt;b&gt;Database Sync Component&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-84" width="680" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-31" value="&lt;b&gt;Controller&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1310" y="-910" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="10" as="sourcePoint" />
+            <mxPoint x="1420" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1420" y="60" />
+              <mxPoint x="1420" y="60" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
