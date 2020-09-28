@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-28T08:54:04.172Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="5rV2H2qMkkWPZRenG8bW" version="13.6.9" type="github">
+<mxfile modified="2020-09-28T08:56:55.562Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="rgcRNyztRY-7WF2wWwDO" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1065" dy="2766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
         <mxCell id="H3VU2g5PJS7C6yTMInsD-7" value="&lt;b&gt;Database&lt;/b&gt;&lt;br&gt;&lt;br&gt;Gemmer spiller-informationer, nuværende tegning samt tegningshistorik" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="900" y="-90" width="940" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-8" value="&lt;b&gt;Get Gitter Component&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-8" value="&lt;b&gt;Gitter Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Indlæser og returnerer hele gitteret." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-620" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-10" value="&lt;b&gt;User Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Idenficierer user, checker cooldown." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
@@ -141,11 +141,11 @@
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1440" y="-280" as="sourcePoint" />
-            <mxPoint x="1440" y="-127" as="targetPoint" />
+            <mxPoint x="1424.5" y="-283" as="sourcePoint" />
+            <mxPoint x="1424.5" y="-130" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1440" y="-230" />
-              <mxPoint x="1440" y="-230" />
+              <mxPoint x="1424.5" y="-233" />
+              <mxPoint x="1424.5" y="-233" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -236,6 +236,15 @@
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-42" value="API-kald" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1660" y="-713" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-43" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="-673" width="950" height="441" as="geometry" />
+        </mxCell>
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-44" value="API-kald" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-473" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-45" value="Læser og skriver" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="-320" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
