@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-28T08:58:21.404Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="nVYwGjBiCA6gDNEzCDyq" version="13.6.9" type="github">
+<mxfile modified="2020-09-28T09:03:41.233Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="J5Z_K4ZcrIjrhZmlLUd4" version="13.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1065" dy="2766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -98,34 +98,28 @@
             <mxPoint x="830" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="-130" width="760" height="572" as="geometry" />
-        </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-5" value="&lt;b&gt;Update Gitter Component&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-5" value="&lt;b&gt;Update Gitter Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ændrer en pixel på gitteret." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1350" y="-390" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-6" value="&lt;span&gt;&lt;b&gt;Enkelt-sidet web applikation&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Viser tegningen real-time til spilleren og har GUI til placering af nye pixels.&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="-850" width="940" height="80" as="geometry" />
+          <mxGeometry x="1000" y="-850" width="1010" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-7" value="&lt;b&gt;Database&lt;/b&gt;&lt;br&gt;&lt;br&gt;Gemmer spiller-informationer, nuværende tegning samt tegningshistorik" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-90" width="940" height="120" as="geometry" />
+          <mxGeometry x="900" y="-90" width="1120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-8" value="&lt;b&gt;Gitter Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Indlæser og returnerer hele gitteret." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="-620" width="170" height="80" as="geometry" />
+          <mxGeometry x="1840" y="-621" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-10" value="&lt;b&gt;User Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Idenficierer user, checker cooldown." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="-390" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-11" value="&lt;b&gt;Change Pixel Request Component&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="-620" width="170" height="80" as="geometry" />
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-10" value="&lt;b&gt;Validate User on Pixel Request Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Idenficierer user, checker cooldown." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-390" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="-513" as="sourcePoint" />
-            <mxPoint x="1100" y="-413" as="targetPoint" />
+            <mxPoint x="1104.5" y="-728.5" as="sourcePoint" />
+            <mxPoint x="1104.5" y="-411.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1100" y="-463" />
-              <mxPoint x="1100" y="-463" />
+              <mxPoint x="1104.5" y="-461.5" />
+              <mxPoint x="1104.5" y="-461.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -154,7 +148,7 @@
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1210" y="-350" as="sourcePoint" />
+            <mxPoint x="1250" y="-350" as="sourcePoint" />
             <mxPoint x="1330" y="-350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1260" y="-350" />
@@ -164,24 +158,11 @@
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1650" y="-513" as="sourcePoint" />
-            <mxPoint x="1650" y="-120" as="targetPoint" />
+            <mxPoint x="1920" y="-514" as="sourcePoint" />
+            <mxPoint x="1920" y="-121" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1650" y="-463" />
-              <mxPoint x="1650" y="-463" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-30" value="&lt;b&gt;Database Sync Component&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="-40" width="500" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1960" y="-179" as="sourcePoint" />
-            <mxPoint x="1960" y="-109" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1960" y="-179" />
-              <mxPoint x="1960" y="-179" />
+              <mxPoint x="1920" y="-464" />
+              <mxPoint x="1920" y="-464" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -198,16 +179,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1104.5" y="-741" as="sourcePoint" />
-            <mxPoint x="1104.5" y="-641" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1104.5" y="-691" />
-              <mxPoint x="1104.5" y="-691" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1440" y="-752" as="sourcePoint" />
@@ -220,34 +191,41 @@
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1650" y="-752" as="sourcePoint" />
-            <mxPoint x="1650" y="-652" as="targetPoint" />
+            <mxPoint x="1920" y="-753" as="sourcePoint" />
+            <mxPoint x="1920" y="-653" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1650" y="-702" />
-              <mxPoint x="1650" y="-702" />
+              <mxPoint x="1920" y="-703" />
+              <mxPoint x="1920" y="-703" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-40" value="API-kald" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1114" y="-701" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-41" value="API-kald" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="-713" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-42" value="API-kald" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="-713" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H3VU2g5PJS7C6yTMInsD-43" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="-673" width="950" height="441" as="geometry" />
+          <mxGeometry x="1930" y="-714" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-44" value="API-kald" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="-473" width="60" height="20" as="geometry" />
+          <mxGeometry x="1120" y="-730" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-45" value="Læser og skriver" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="-320" width="100" height="20" as="geometry" />
+          <mxGeometry x="1924" y="-321" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H3VU2g5PJS7C6yTMInsD-46" value="Får events fra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1455" y="-462.5" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-47" value="&lt;b&gt;History Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ændrer en pixel på gitteret." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-390" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H3VU2g5PJS7C6yTMInsD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="-350.5" as="sourcePoint" />
+            <mxPoint x="1620" y="-350.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1550" y="-350.5" />
+              <mxPoint x="1550" y="-350.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
