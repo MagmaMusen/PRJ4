@@ -1,6 +1,6 @@
-<mxfile modified="2020-10-09T07:32:42.663Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="llIXaO8rS4lYTAnQlih5" version="13.7.5" type="github">
+<mxfile modified="2020-10-09T08:06:51.016Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="3z6BsNZU50_m1_eKyJn2" version="13.7.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1718" dy="2616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="2450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,18 +265,18 @@
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-1" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="1240" as="sourcePoint" />
+            <mxPoint x="770" y="1280" as="sourcePoint" />
             <mxPoint x="770" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-2" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="j8bVmXQa3wz0ppJWh2PN-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1150" y="1250" as="sourcePoint" />
+            <mxPoint x="1150" y="1280" as="sourcePoint" />
             <mxPoint x="1149" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-3" value="&lt;b&gt;API applikation&lt;/b&gt;&lt;br&gt;&lt;br&gt;Håndterer input fra spillere mm." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="374" width="170" height="80" as="geometry" />
+          <mxGeometry x="1065" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-4" value="&lt;span&gt;&lt;b&gt;Enkelt-sidet web applikation&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Viser tegningen real-time til spilleren og har GUI til placering af nye pixels.&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="662" y="180" width="230" height="80" as="geometry" />
@@ -287,24 +287,15 @@
             <mxPoint x="1350" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j8bVmXQa3wz0ppJWh2PN-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1685" y="540" as="sourcePoint" />
-            <mxPoint x="1435" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-7" value="Hent hjemmeside" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1025" y="270" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="j8bVmXQa3wz0ppJWh2PN-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="340" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-9" value="Besøgende" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="160" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-11" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="444.58" y="770" as="sourcePoint" />
+            <mxPoint x="445" y="1280" as="sourcePoint" />
             <mxPoint x="444.58" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -313,7 +304,7 @@
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1365" y="1210" as="sourcePoint" />
+            <mxPoint x="1365" y="1280" as="sourcePoint" />
             <mxPoint x="1364.58" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -339,43 +330,118 @@
           <mxGeometry x="895" y="490" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-19" value="Display gitter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="750" width="80" height="20" as="geometry" />
+          <mxGeometry x="720" y="648" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="795" y="700" as="sourcePoint" />
-            <mxPoint x="1120" y="700" as="targetPoint" />
+            <mxPoint x="795" y="648" as="sourcePoint" />
+            <mxPoint x="1120" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-21" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="730" as="sourcePoint" />
-            <mxPoint x="790" y="730" as="targetPoint" />
+            <mxPoint x="1120" y="678" as="sourcePoint" />
+            <mxPoint x="790" y="678" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-22" value="Keep me updated API-kald" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="885" y="670" width="160" height="20" as="geometry" />
+          <mxGeometry x="885" y="618" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="j8bVmXQa3wz0ppJWh2PN-23" value="Opdater gitter hver gang man modtager fra keep me updated" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="607" y="780" width="340" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="j8bVmXQa3wz0ppJWh2PN-24" value="Request pixel placement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="890" width="150" height="20" as="geometry" />
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-24" value="Request pixel placement API-kald" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="838" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-25" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="920" as="sourcePoint" />
-            <mxPoint x="1115" y="920" as="targetPoint" />
+            <mxPoint x="790" y="868" as="sourcePoint" />
+            <mxPoint x="1115" y="868" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-26" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="986" as="sourcePoint" />
-            <mxPoint x="790" y="986" as="targetPoint" />
+            <mxPoint x="1120" y="934" as="sourcePoint" />
+            <mxPoint x="790" y="934" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j8bVmXQa3wz0ppJWh2PN-27" value="Cooldown check OK/ikke OK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="960" width="170" height="20" as="geometry" />
+          <mxGeometry x="875" y="908" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-28" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="150" as="sourcePoint" />
+            <mxPoint x="760" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-29" value="Åbn hjemmeside i browser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-30" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="868" as="sourcePoint" />
+            <mxPoint x="747" y="868" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-31" value="Placer pixel via hjemmeside UI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="838" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-32" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="738" as="sourcePoint" />
+            <mxPoint x="790" y="738" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-33" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="798" as="sourcePoint" />
+            <mxPoint x="790" y="798" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-35" value="update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="658" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-36" value="update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="718" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-37" value="update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="775" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-38" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="1068" as="sourcePoint" />
+            <mxPoint x="790" y="1068" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-39" value="update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1038" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-40" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;b&gt;Hent hele gitter API-kald&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="410" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-41" value="Returner binary large file (BLOP)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="440" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-42" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;Keep me updated API-kald&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-43" value="Returnere OK først har kaldt den, så man ved man er subscribed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="580" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-44" value="Skal sende pixelændringer tilbage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="600" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-45" value="Array af pixels. Hver pixel består af (x, y, farve (f.eks. 1010))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="628" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-46" value="Sender hele BLOP hver gang der skal opdateres" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="658" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-47" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;b&gt;Request pixel placement&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="750" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-48" value="Send (x, y, farve (f.eks. 1010)) med til API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="780" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8bVmXQa3wz0ppJWh2PN-49" value="API svarer med OK eller ikke OK efter hvorvidt cooldown er i orden" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="800" width="370" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
