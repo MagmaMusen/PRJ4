@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-23T08:49:47.914Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ZQkQ9rqDGgJhrmj0OyP-" version="13.7.9" type="github">
+<mxfile modified="2020-10-23T08:57:39.139Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="uroWgqNBOBv05TqO-6UT" version="13.7.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1918" dy="2616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -463,6 +463,9 @@
         </mxCell>
         <mxCell id="C42kTCbImfNsZP9Lu4t0-14" value="API snak&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2770" y="-600" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C42kTCbImfNsZP9Lu4t0-15" value="Ikke slet, det kan bruges til afsnit om design overvejelser osv&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2890" y="-593" width="340" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
