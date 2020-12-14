@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-14T17:47:03.687Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TefOB-90dYjw_98xvF3s" version="14.0.1" type="github">
+<mxfile modified="2020-12-14T17:47:44.014Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EHJAdoeGTaAg_WImWSqw" version="14.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="4400" dy="2776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -448,13 +448,13 @@
         <mxCell id="C42kTCbImfNsZP9Lu4t0-15" value="Ikke slet, det kan bruges til afsnit om design overvejelser osv&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3337" y="426.5" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y__rM9eiXkuSkaRyuo5M-1" value="&lt;b&gt;Grid Component&lt;br&gt;&lt;/b&gt;[Javascript med HTML canvas]&lt;br&gt;&lt;br&gt;Viser det aktuelle gitter, tillader nem navigation og valg af hvilken pixel skal farvelægges." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="y__rM9eiXkuSkaRyuo5M-1" value="&lt;b&gt;Grid Component&lt;br&gt;&lt;/b&gt;[JavaScript med HTML canvas]&lt;br&gt;&lt;br&gt;Viser det aktuelle gitter, tillader nem navigation og valg af hvilken pixel skal farvelægges." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="416" y="-1217" width="170" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="y__rM9eiXkuSkaRyuo5M-2" value="&lt;b&gt;Colorpicker Component&lt;br&gt;&lt;/b&gt;[Javascript]&lt;br&gt;&lt;br&gt;Tillader valg af farve til næste farvelægning." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="y__rM9eiXkuSkaRyuo5M-2" value="&lt;b&gt;Colorpicker Component&lt;br&gt;&lt;/b&gt;[JavaScript]&lt;br&gt;&lt;br&gt;Tillader valg af farve til næste farvelægning." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="129" y="-1219" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y__rM9eiXkuSkaRyuo5M-3" value="&lt;b&gt;ApiCaller Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Kommunikerer med API." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="y__rM9eiXkuSkaRyuo5M-3" value="&lt;b&gt;ApiCaller Component&lt;/b&gt;&lt;br&gt;[JavaScript]&lt;br&gt;&lt;br&gt;Kommunikerer med API." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="729" y="-1219" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y__rM9eiXkuSkaRyuo5M-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;" parent="1" vertex="1">
