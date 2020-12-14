@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-14T17:56:00.633Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zw7KlicQ9_VX_c-Lz2_-" version="14.0.1" type="github">
+<mxfile modified="2020-12-14T18:02:13.605Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="XuGcByDnk7QvL4KEk9O4" version="14.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="3595" dy="2974" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -638,7 +638,7 @@
           <mxGeometry x="829" y="-1269" width="61" height="18" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-28" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;strokeColor=#001DBC;fontColor=#ffffff;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="53.5" y="-1412" width="44.5" height="360" as="geometry" />
+          <mxGeometry x="53.5" y="-1412" width="1073.5" height="360" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-30" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Web applikation&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="76" y="-1441" width="125" height="19" as="geometry" />
@@ -655,9 +655,6 @@
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-59" value="Opdaterer pixels" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="603.5" y="-1145" width="98" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="XQ76cf2mVzblBFnnEcto-60" value="&lt;b&gt;History Component&lt;br&gt;[JavaScript]&lt;br&gt;&lt;/b&gt;&lt;br&gt;Tillader brugere at logge ind." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="952.5" y="-1380" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
