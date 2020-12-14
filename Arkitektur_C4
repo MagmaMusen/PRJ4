@@ -1,6 +1,6 @@
-<mxfile modified="2020-12-14T16:01:47.759Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="g6gII4S4Wz2P1RjVmpYl" version="14.0.1" type="github">
+<mxfile modified="2020-12-14T16:02:59.279Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="KhSmeerGfu4TU54sB1Ox" version="14.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="3231" dy="2776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4400" dy="2776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -642,6 +642,110 @@
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-30" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Enkelt-sidet web applikation&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="61" y="-1441" width="212" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-31" value="&lt;b&gt;Grid Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Viser det aktuelle gitter, tillader nem navigation og valg af hvilken pixel skal farvelægges." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-631" y="-1182" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-32" value="&lt;b&gt;Colorpicker Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Tillader valg af farve til næste farvelægning." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-918" y="-1184" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-33" value="&lt;b&gt;ApiCaller Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Kommunikerer med API." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-318" y="-1184" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-34" value="&lt;b&gt;API applikation&lt;/b&gt;&lt;br&gt;&lt;br&gt;Håndterer input fra spillere mm." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="-985" width="880" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-35" value="" style="outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="-586" y="-1574" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-36" value="Besøgende" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-586" y="-1496" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-234" y="-1097" as="sourcePoint" />
+            <mxPoint x="-234" y="-997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-234" y="-1047" />
+              <mxPoint x="-234" y="-1047" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-40" value="API-kald&lt;br&gt;[JSON/HTTPS]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-233" y="-1064" width="91" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-442.5" y="-1140" as="sourcePoint" />
+            <mxPoint x="-343.5" y="-1140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-413.5" y="-1140" />
+              <mxPoint x="-413.5" y="-1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-42" value="Opdatering af gitter&lt;br&gt;[JSON/SignalR]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-543" y="-1060" width="113" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-43" value="Bruger ved input&lt;br&gt;fra besøgende" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-446" y="-1182" width="98" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-547.5" y="-997" as="sourcePoint" />
+            <mxPoint x="-547.5" y="-1089" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-547.5" y="-1020" />
+              <mxPoint x="-547.5" y="-1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-668" y="-1139" as="sourcePoint" />
+            <mxPoint x="-736" y="-1139" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-645" y="-1139" />
+              <mxPoint x="-645" y="-1139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-46" value="Får aktuel farve fra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-748" y="-1168" width="111" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-47" value="Navigerer og&lt;br&gt;vælger pixel i" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="-1340" width="81" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-565" y="-1468" as="sourcePoint" />
+            <mxPoint x="-820" y="-1202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-549" y="-1465" as="sourcePoint" />
+            <mxPoint x="-549" y="-1205" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-529.5" y="-1469" as="sourcePoint" />
+            <mxPoint x="-336" y="-1338" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-53" value="Vælger farve med" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-745" y="-1416" width="105" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-54" value="Logger ind med" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="-1430" width="93" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-56" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;strokeColor=#001DBC;fontColor=#ffffff;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2026" y="-1374" width="905" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-57" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Enkelt-sidet web applikation&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-986" y="-1406" width="212" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
