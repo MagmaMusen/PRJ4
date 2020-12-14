@@ -1,6 +1,6 @@
-<mxfile modified="2020-12-14T17:51:48.670Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wtTN6Klu-LLAtGGbojEw" version="14.0.1" type="github">
+<mxfile modified="2020-12-14T17:56:00.633Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zw7KlicQ9_VX_c-Lz2_-" version="14.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="3231" dy="2776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3595" dy="2974" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
           <mxGeometry x="-300" y="-629" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;strokeColor=#001DBC;fontColor=#ffffff;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="351" y="-621" width="280" height="590" as="geometry" />
+          <mxGeometry x="351" y="-622" width="280" height="590" as="geometry" />
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Gridder&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="467" y="-26" width="64" height="19" as="geometry" />
@@ -48,7 +48,7 @@
         <mxCell id="kUy26bgBn5fABN4g1qB2-16" value="&lt;b&gt;Database&lt;/b&gt;&lt;br&gt;&lt;br&gt;Gemmer spiller-informationer, nuværende tegning samt tegningshistorik" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;strokeWidth=3;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="388.5" y="-172" width="205" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="kUy26bgBn5fABN4g1qB2-17" value="&lt;span&gt;&lt;b&gt;Enkelt-sidet web applikation&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Viser tegningen real-time til spilleren og har GUI til placering af nye pixels.&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="kUy26bgBn5fABN4g1qB2-17" value="&lt;span&gt;&lt;b&gt;Web applikation&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;Viser tegningen real-time til spilleren og har GUI til placering af nye pixels.&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="382" y="-561" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-18" value="Kalder API-funktionalitet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -464,7 +464,7 @@
           <mxGeometry x="2047.5" y="-1394" width="805" height="220" as="geometry" />
         </mxCell>
         <mxCell id="y__rM9eiXkuSkaRyuo5M-6" value="&lt;b&gt;API applikation&lt;/b&gt;&lt;br&gt;&lt;br&gt;Håndterer input fra spillere mm." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="66" y="-1003" width="880" height="80" as="geometry" />
+          <mxGeometry x="66" y="-1003" width="1049" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-2" value="" style="outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
           <mxGeometry x="-190" y="-708" width="78" height="78" as="geometry" />
@@ -527,7 +527,7 @@
           <mxGeometry x="548" y="-657" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-25" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="291.5" y="-801" width="416" height="801" as="geometry" />
+          <mxGeometry x="285.5" y="-797" width="416" height="801" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-1" value="" style="outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
           <mxGeometry x="416" y="-1607" width="78" height="78" as="geometry" />
@@ -638,10 +638,10 @@
           <mxGeometry x="829" y="-1269" width="61" height="18" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-28" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;strokeColor=#001DBC;fontColor=#ffffff;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="53.5" y="-1412" width="905" height="360" as="geometry" />
+          <mxGeometry x="53.5" y="-1412" width="44.5" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="XQ76cf2mVzblBFnnEcto-30" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Enkelt-sidet web applikation&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="-1441" width="212" height="19" as="geometry" />
+        <mxCell id="XQ76cf2mVzblBFnnEcto-30" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Web applikation&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="-1441" width="125" height="19" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -655,6 +655,9 @@
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-59" value="Opdaterer pixels" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="603.5" y="-1145" width="98" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-60" value="&lt;b&gt;History Component&lt;br&gt;[JavaScript]&lt;br&gt;&lt;/b&gt;&lt;br&gt;Tillader brugere at logge ind." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="952.5" y="-1380" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
