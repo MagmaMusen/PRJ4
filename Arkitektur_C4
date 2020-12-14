@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-14T15:50:28.474Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WI1F8AD4pV3kN4LJKCdw" version="14.0.1" type="github">
+<mxfile modified="2020-12-14T15:51:17.529Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="GOtWJ-Hm4ndQs1MMg9VN" version="14.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="3231" dy="2776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -551,8 +551,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XQ76cf2mVzblBFnnEcto-7" value="API-kald" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1657" y="-1149" width="60" height="20" as="geometry" />
+        <mxCell id="XQ76cf2mVzblBFnnEcto-7" value="API-kald&lt;br&gt;[JSON/HTTPS]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="-1149" width="91" height="32" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -567,8 +567,8 @@
         <mxCell id="XQ76cf2mVzblBFnnEcto-12" value="Opdatering af gitter&lt;br&gt;[JSON/SignalR]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1344" y="-1145" width="113" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="XQ76cf2mVzblBFnnEcto-13" value="Opdatering af gitter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="-1253" width="113" height="18" as="geometry" />
+        <mxCell id="XQ76cf2mVzblBFnnEcto-13" value="Bruger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1464" y="-1253" width="46" height="18" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
