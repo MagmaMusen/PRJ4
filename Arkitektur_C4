@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-14T15:51:17.529Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="GOtWJ-Hm4ndQs1MMg9VN" version="14.0.1" type="github">
+<mxfile modified="2020-12-14T15:52:55.653Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tU54FElvpttp9FBx9Wnl" version="14.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="3231" dy="2776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
           <mxGeometry x="1256" y="-1267" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y__rM9eiXkuSkaRyuo5M-2" value="&lt;b&gt;Colorpicker Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Tillader valg af farve til næste farvelægning." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="920" y="-1405" width="170" height="80" as="geometry" />
+          <mxGeometry x="969" y="-1269" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y__rM9eiXkuSkaRyuo5M-3" value="&lt;b&gt;ApiCaller Component&lt;/b&gt;&lt;br&gt;&lt;br&gt;Kommunikerer med API." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1569" y="-1269" width="170" height="80" as="geometry" />
@@ -567,8 +567,8 @@
         <mxCell id="XQ76cf2mVzblBFnnEcto-12" value="Opdatering af gitter&lt;br&gt;[JSON/SignalR]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1344" y="-1145" width="113" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="XQ76cf2mVzblBFnnEcto-13" value="Bruger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1464" y="-1253" width="46" height="18" as="geometry" />
+        <mxCell id="XQ76cf2mVzblBFnnEcto-13" value="Bruger ved input&lt;br&gt;fra besøgende" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1441" y="-1267" width="98" height="32" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -579,6 +579,19 @@
               <mxPoint x="1339.5" y="-1105" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1219" y="-1224" as="sourcePoint" />
+            <mxPoint x="1151" y="-1224" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1242" y="-1224" />
+              <mxPoint x="1242" y="-1224" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQ76cf2mVzblBFnnEcto-16" value="Får aktuel farve fra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="-1253" width="111" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
