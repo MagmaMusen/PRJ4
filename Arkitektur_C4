@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-14T17:50:12.406Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ad_6AD_rmwOuDrs2qNW5" version="14.0.1" type="github">
+<mxfile modified="2020-12-14T17:51:48.670Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wtTN6Klu-LLAtGGbojEw" version="14.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="3231" dy="2776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -632,7 +632,7 @@
           <mxGeometry x="302" y="-1451" width="105" height="18" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-26" value="Logger ind med" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="617" y="-1459" width="93" height="18" as="geometry" />
+          <mxGeometry x="625" y="-1451" width="93" height="18" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-27" value="Anvender" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="829" y="-1269" width="61" height="18" as="geometry" />
