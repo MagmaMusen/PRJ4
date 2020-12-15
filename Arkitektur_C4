@@ -1,30 +1,30 @@
-<mxfile modified="2020-12-15T10:19:01.090Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="esXERLmcZ4_6I-Sub9og" version="14.0.1" type="github">
+<mxfile modified="2020-12-15T10:27:36.373Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="u-OHq_JHcHlbcGVoKJ8P" version="14.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2289" dy="2798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2102" dy="2607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UEzPUAAOIrF-is8g5C7q-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="-577" as="sourcePoint" />
-            <mxPoint x="30" y="-477" as="targetPoint" />
+            <mxPoint x="421" y="201" as="sourcePoint" />
+            <mxPoint x="421" y="301" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="30" y="-527" />
-              <mxPoint x="30" y="-527" />
+              <mxPoint x="421" y="251" />
+              <mxPoint x="421" y="251" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-1" value="" style="outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
-          <mxGeometry x="-9" y="-687" width="78" height="78" as="geometry" />
+          <mxGeometry x="382" y="91" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-2" value="Ser gitter og&lt;br&gt;farvelægger pixels&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-82" y="-542" width="111" height="32" as="geometry" />
+          <mxGeometry x="309" y="236" width="111" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="kUy26bgBn5fABN4g1qB2-3" value="Gridder" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="6" y="-470" width="160" height="60" as="geometry" />
+        <mxCell id="kUy26bgBn5fABN4g1qB2-3" value="&lt;b&gt;Gridder&lt;/b&gt;&lt;br&gt;[Software System]" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="397" y="308" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-4" value="Besøgende" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="-609" width="80" height="20" as="geometry" />
+          <mxGeometry x="381" y="169" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kUy26bgBn5fABN4g1qB2-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;strokeColor=#001DBC;fontColor=#ffffff;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="364.5" y="-645" width="280" height="607" as="geometry" />
@@ -467,26 +467,26 @@
           <mxGeometry x="66" y="-1003" width="868" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-2" value="" style="outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
-          <mxGeometry x="100" y="-688" width="78" height="78" as="geometry" />
+          <mxGeometry x="491" y="90" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-3" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="115" y="-609" width="50" height="20" as="geometry" />
+          <mxGeometry x="506" y="169" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="138.5" y="-580" as="sourcePoint" />
-            <mxPoint x="138.5" y="-480" as="targetPoint" />
+            <mxPoint x="529.5" y="198" as="sourcePoint" />
+            <mxPoint x="529.5" y="298" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="138.5" y="-530" />
-              <mxPoint x="138.5" y="-530" />
+              <mxPoint x="529.5" y="248" />
+              <mxPoint x="529.5" y="248" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-6" value="Administrerer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="-539" width="90" height="20" as="geometry" />
+          <mxGeometry x="531" y="239" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-86" y="-700.5" width="349" height="313" as="geometry" />
+          <mxGeometry x="296.5" y="69" width="349" height="313" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -499,19 +499,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-18" value="" style="outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
-          <mxGeometry x="406.5" y="-796.5" width="78" height="78" as="geometry" />
+          <mxGeometry x="406.5" y="-799.5" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-19" value="Ser gitter og&lt;br&gt;farvelægger pixels&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="334.5" y="-682" width="111" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="ZMQ7kvaqE5BFqlBFen-2-20" value="Besøgende" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="405.5" y="-718.5" width="80" height="20" as="geometry" />
+        <mxCell id="ZMQ7kvaqE5BFqlBFen-2-20" value="&lt;b&gt;Besøgende&lt;/b&gt;&lt;br&gt;[Person]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="408.5" y="-724.5" width="75" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-21" value="" style="outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
-          <mxGeometry x="515.5" y="-797.5" width="78" height="78" as="geometry" />
+          <mxGeometry x="515.5" y="-800.5" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="ZMQ7kvaqE5BFqlBFen-2-22" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="530.5" y="-718.5" width="50" height="20" as="geometry" />
+        <mxCell id="ZMQ7kvaqE5BFqlBFen-2-22" value="&lt;b&gt;Admin&lt;/b&gt;&lt;br&gt;[Person]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="528.5" y="-724.5" width="55" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=open;endFill=0;strokeColor=#808080;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -527,7 +527,7 @@
           <mxGeometry x="555.5" y="-676" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZMQ7kvaqE5BFqlBFen-2-25" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="827" y="-787" width="416" height="801" as="geometry" />
+          <mxGeometry x="744.5" y="-808" width="416" height="801" as="geometry" />
         </mxCell>
         <mxCell id="XQ76cf2mVzblBFnnEcto-1" value="" style="outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
           <mxGeometry x="416" y="-1607" width="78" height="78" as="geometry" />
@@ -924,7 +924,7 @@
           <mxGeometry x="-931" y="299" width="894" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eaySPVRHfqvPtgy-gl_d-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="638" y="-1451" width="928" height="721" as="geometry" />
+          <mxGeometry x="28.75" y="-1480" width="934.25" height="582" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
